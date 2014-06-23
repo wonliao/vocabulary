@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FF480DA7-4663-4541-8B73-1F6D43BFCF12</string>
+	<key>IDESourceControlProjectName</key>
+	<string>English</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>89CFCCC9-71EC-4AE5-97A6-625036D1AAE0</key>
+		<string>ssh://github.com/wonliao/vocabulary.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>English.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>89CFCCC9-71EC-4AE5-97A6-625036D1AAE0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/wonliao/vocabulary.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>89CFCCC9-71EC-4AE5-97A6-625036D1AAE0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>89CFCCC9-71EC-4AE5-97A6-625036D1AAE0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>vocabulary</string>
+		</dict>
+	</array>
+</dict>
+</plist>
